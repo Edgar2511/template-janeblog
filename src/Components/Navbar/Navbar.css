@@ -1,0 +1,23 @@
+.Navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  background-color: #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1;
+}
+
+.Social a {
+  height: 100%;
+  margin: 0 8px;
+}
+
+.Navbar a {
+  color: #fff;
+  text-decoration: none;
+}

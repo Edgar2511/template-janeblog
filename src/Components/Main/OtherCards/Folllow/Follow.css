@@ -1,0 +1,8 @@
+.followSection {
+  display: flex;
+  background-color: #fff;
+}
+
+.followSection p {
+  margin: 0 10px;
+}

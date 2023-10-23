@@ -1,0 +1,73 @@
+.blogCards {
+  padding: 12px 24px;
+  max-width: 1045px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: aqua; */
+}
+
+.cardTitle {
+  width: 100%;
+  background-color: #fff;
+}
+
+.cardTitle h3 {
+  font-size: 24px;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.cardTitle p {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.cardTitle p span {
+  opacity: 0.4;
+}
+
+.imageContainer {
+  padding: 16px 0;
+}
+
+.imageContainer img {
+  width: 100%;
+  height: 100%;
+}
+
+.cardDescription p {
+  margin: 15px 0;
+}
+
+.rewiew {
+  margin: 15px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.likeBtn {
+  padding: 8px 18px;
+  border: 1px solid rgb(213, 212, 212);
+  background-color: #fff;
+  color: #000;
+  cursor: pointer;
+}
+
+.likeBtn:hover {
+  opacity: 0.8;
+}
+
+.repliesbtn {
+  padding: 8px 18px;
+  border: 1px solid rgb(213, 212, 212);
+  background-color: #fff;
+  color: #000;
+  cursor: pointer;
+}
+
+.repliesbtn:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,26 @@
+.Container {
+  margin: 32px 0;
+  background-color: #fff;
+}
+
+.title {
+  padding: 18px 16px;
+  margin: 10px 0;
+  font-size: 20px;
+  background-color: #000;
+  color: #fff;
+}
+
+.tags {
+  padding: 0.15px 16px;
+  display: grid;
+  gap: 12px;
+  grid-template-columns: auto auto auto auto;
+}
+
+.tags span {
+  padding: 0 8px;
+  margin-bottom: 16px;
+  background-color: #dfdddd;
+  color: #000;
+}

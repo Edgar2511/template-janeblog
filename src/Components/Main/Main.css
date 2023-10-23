@@ -1,0 +1,11 @@
+.Main {
+  margin: 18px auto;
+  max-width: 1600px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  background: #fff;
+  /* border: 1px solid #ccc !important; */
+  /* background-color: gold; */
+}

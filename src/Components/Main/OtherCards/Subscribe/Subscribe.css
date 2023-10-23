@@ -1,0 +1,28 @@
+.subSection {
+  padding: 0.15px 16px;
+  background-color: #fff;
+}
+
+.subSection p {
+  margin: 15px 0;
+}
+
+.subSection input {
+  width: 100%;
+  padding: 8px;
+}
+
+.subSection button {
+  width: 100%;
+  padding: 8px 18px;
+  margin: 15px 0;
+  border: none;
+  cursor: pointer;
+  background-color: #f44336;
+  color: #fff;
+}
+
+.subSection button:hover {
+  background-color: rgb(223, 224, 225);
+  color: #000;
+}

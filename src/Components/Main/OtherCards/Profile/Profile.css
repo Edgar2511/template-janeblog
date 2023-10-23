@@ -1,0 +1,23 @@
+.pprofile {
+  width: 100%;
+}
+
+.profile img {
+  width: 100%;
+  filter: grayscale(75%);
+}
+
+.profile div {
+  background-color: #000;
+  color: #fff;
+  padding: 0.15px 16px;
+}
+
+.profile div h4 {
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.profile div p {
+  margin: 15px 0;
+}
